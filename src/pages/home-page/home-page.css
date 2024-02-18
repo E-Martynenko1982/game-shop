@@ -1,0 +1,5 @@
+.home-page {
+  color: whitesmoke;
+  display: flex;
+  flex-wrap: wrap;
+}
