@@ -1,4 +1,4 @@
-[https://github.com/E-Martynenko1982/My-chess-project.git]
+[https://mellow-wisp-25da8c.netlify.app/]
 
 The tech stack is: HTML5
 CSS3
